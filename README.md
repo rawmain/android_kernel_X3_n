@@ -2,9 +2,10 @@
 
 
 ## Features
+- Kernel Version 3.10.108. (LATEST)
 - Supports one Touch Kernel Profiles.
 - Change Profiles from Nougat Quick Settings Tile.
-- Kernel Version 3.10.107. (LATEST)
+- Added Kernel Updater App.
 - Supports F2FS.
 - Dynamic fsync added.
 - Supports Powersaving task allignment(Need to be enabled from Kernel Audiutor CPU tab).
