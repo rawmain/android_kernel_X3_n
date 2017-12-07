@@ -953,9 +953,9 @@ CONFIG_MTK_SMARTBOOK_SUPPORT=y
 CONFIG_MTK_SENSOR_SUPPORT=y
 # CONFIG_CUSTOM_SEC_AUTH_SUPPORT is not set
 # CONFIG_MTK_SENSOR_HUB_SUPPORT is not set
-CONFIG_CUSTOM_KERNEL_IMGSENSOR="imx230_mipi_raw s5k3l8_mipi_raw s5k3l9_mipi_raw s5k5e8yx_mipi_raw s5k5e9yx_mipi_raw"
+CONFIG_CUSTOM_KERNEL_IMGSENSOR="imx135_mipi_raw imx214_mipi_raw s5k3l8_mipi_raw s5k3l9_mipi_raw s5k5e8yx_mipi_raw s5k5e9yx_mipi_raw imx230_mipi_raw"
 CONFIG_CUSTOM_KERNEL_CAM_CAL_DRV="cat24c16"
-CONFIG_CUSTOM_KERNEL_LCM="amoi_r63419_wqhd_truly_phantom_2k_vdo_ok r63419_wqhd_truly_phantom_2k_vdo_ok"
+CONFIG_CUSTOM_KERNEL_LCM="amoi_r63419_wqhd_truly_phantom_2k_vdo_ok"
 CONFIG_CUSTOM_KERNEL_FLASHLIGHT="constant_flashlight"
 # CONFIG_MTK_FORCE_CLUSTER1 is not set
 CONFIG_MTK_MMPROFILE_SUPPORT=y
