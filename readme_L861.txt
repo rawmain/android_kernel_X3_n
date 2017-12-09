@@ -1,4 +1,4 @@
-Le 1S Kernel Build mini-Howto
+L861 Kernel Build mini-Howto
 ===============================
 
 1. Build
@@ -21,7 +21,7 @@ Le 1S Kernel Build mini-Howto
 
 - build kernel
     $ cd <kernel>
-    $ make -C $PWD O=$PWD/out ARCH=arm64 x500_defconfig
+    $ make -C $PWD O=$PWD/out ARCH=arm64 l861_defconfig
     $ make -j$JOBS -C $PWD O=$PWD/out ARCH=arm64 KCFLAGS=-mno-android
 
 2. Output files
